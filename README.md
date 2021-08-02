@@ -8,7 +8,7 @@ A website that informs you about serch engine optimization and social media mark
 * CSS
 
 ## Website
-
+https://tylersund72.github.io/urban-octo-telegram/
 
 # Contribution
 Made with love by Horiseon and Tyler Sundquist
